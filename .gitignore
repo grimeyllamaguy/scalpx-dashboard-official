@@ -1,0 +1,41 @@
+# Python cache and env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+.venv/
+
+# Secret configs and keys
+ScalpX/creds.json
+ScalpX/twilio_config.json
+config.json
+config.yaml
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.exe
+*.msi
+
+# Streamlit cache and stuff
+.streamlit/
+
+# Other sensitive or temp files
+*.bak
+*.swp
