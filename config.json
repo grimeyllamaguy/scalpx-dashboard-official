@@ -1,0 +1,17 @@
+{
+  "ALPACA_KEY": "AKW252NTN2RYESN39CH5",
+  "ALPACA_SECRET": "2Ylh4yRfGX5m0hbSeX1HcHyedQ61VG1OHZ5pBp1s",
+  "ALPACA_MODE": "live",
+  "ALLOW_LIVE_TRADES": true,
+  "LIVE_BASELINE": 600.00,
+  "PAPER_BASELINE": 100000.00,
+  "LIVE_MODE": true,
+  "MIN_SCORE": 8.0,
+  "WATCHLIST": ["AAPL", "AMD", "TSLA", "NVDA", "SPY"],
+  "DISCORD_WEBHOOK_URL": "https://discord.com/api/webhooks/1393834483098320947/D7NxdLvH1gVq90woLwpofrmo6xGHdXknAwpFYrvGbc8cs4TQ5ogGXP048KWOWKeLKy5C",
+  "EMAIL_SENDER": "llamaguyai@gmail.com",
+  "EMAIL_PASSWORD": "abwe wgoh hxln lphe",
+  "EMAIL_RECEIVER": "llamaguyai@gmail.com",
+  "SMS_NUMBER": "+17174437727",
+  "DAILY_REPORT_BAT": "C:\\Users\\Jamal Lawrence\\Documents\\ScalpX\\scalpx_report_launcher.bat"
+}
