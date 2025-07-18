@@ -1,6 +1,11 @@
-streamlit
-requests
-yfinance
-pytz
-alpaca-trade-api
-pandas
+streamlit==1.47.0
+yfinance==0.2.65
+alpaca-trade-api==0.48
+pandas==2.3.1
+numpy==2.3.1
+requests==2.32.4
+websocket-client==1.8.0
+watchdog==6.0.0
+plotly==5.21.0
+matplotlib==3.9.0
+urllib3>=2.0.7
